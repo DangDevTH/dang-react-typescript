@@ -1,0 +1,23 @@
+npm i @react-oauth/google
+npm install --save jwt-decode
+npm install --save @types/js-cookie
+npm i js-cookie
+npm install @mui/joy @emotion/react @emotion/styled
+npm install @fontsource/inter
+npm install @fontsource/roboto
+npm install --save @types/crypto-js
+npm i crypto-js
+npm i crypto-browserify
+npm i buffer
+npm i @apollo/utils.createhash
+npm i promisify
+npm i node-forge
+npm i @types/node-forge
+npm install @toolpad/core
+npm i --dev @graphql-codegen/cli @parcel/watcher
+npx graphql-codegen init
+npm i react-infinite-scroller
+npm i --save -D @types/react-infinite-scroller
+npm i apollo-upload-client
+npm install --save-dev @types/apollo-upload-client
+
